@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Précision Métaux Montréal",
+    "city": "Montréal",
+    "province": "QC",
+    "lat": 45.5017,
+    "lon": -73.5673,
+    "capabilities": [
+      {"name": "5-axis milling",       "category": "CNC Machining"},
+      {"name": "turning / lathe work", "category": "CNC Machining"},
+      {"name": "grinding",             "category": "CNC Machining"}
+    ],
+    "certifications": ["AS9100D", "ISO 9001:2015"]
+  },
+  {
+    "id": 2,
+    "name": "Fabrication Laval Métal",
+    "city": "Laval",
+    "province": "QC",
+    "lat": 45.5881,
+    "lon": -73.6917,
+    "capabilities": [
+      {"name": "laser cutting",    "category": "Sheet Metal Fabrication"},
+      {"name": "bending / forming","category": "Sheet Metal Fabrication"},
+      {"name": "MIG / MAG welding","category": "Welding & Joining"}
+    ],
+    "certifications": ["ISO 9001:2015"]
+  },
+  {
+    "id": 3,
+    "name": "Soudure & Assemblage Québec",
+    "city": "Québec",
+    "province": "QC",
+    "lat": 46.8139,
+    "lon": -71.2082,
+    "capabilities": [
+      {"name": "TIG welding",           "category": "Welding & Joining"},
+      {"name": "MIG / MAG welding",     "category": "Welding & Joining"},
+      {"name": "friction stir welding", "category": "Welding & Joining"}
+    ],
+    "certifications": ["CWB", "ISO 3834-2"]
+  },
+  {
+    "id": 4,
+    "name": "Revêtements Industriels Sherbrooke",
+    "city": "Sherbrooke",
+    "province": "QC",
+    "lat": 45.4042,
+    "lon": -71.8929,
+    "capabilities": [
+      {"name": "anodizing",      "category": "Surface Treatment"},
+      {"name": "powder coating", "category": "Surface Treatment"},
+      {"name": "electroplating", "category": "Surface Treatment"},
+      {"name": "shot blasting",  "category": "Surface Treatment"}
+    ],
+    "certifications": ["Nadcap", "AS9100D"]
+  },
+  {
+    "id": 5,
+    "name": "Impression 3D Montréal",
+    "city": "Montréal",
+    "province": "QC",
+    "lat": 45.5048,
+    "lon": -73.5772,
+    "capabilities": [
+      {"name": "FDM / FFF printing",      "category": "Additive Manufacturing"},
+      {"name": "SLA / DLP printing",      "category": "Additive Manufacturing"},
+      {"name": "metal 3D printing (DMLS)","category": "Additive Manufacturing"}
+    ],
+    "certifications": []
+  },
+  {
+    "id": 6,
+    "name": "Usinage CNC Longueuil",
+    "city": "Longueuil",
+    "province": "QC",
+    "lat": 45.5313,
+    "lon": -73.5185,
+    "capabilities": [
+      {"name": "turning / lathe work","category": "CNC Machining"},
+      {"name": "3-axis milling",      "category": "CNC Machining"},
+      {"name": "EDM / wire EDM",      "category": "CNC Machining"}
+    ],
+    "certifications": ["ISO 13485", "ISO 9001:2015"]
+  },
+  {
+    "id": 7,
+    "name": "Structures Soudées Drummond",
+    "city": "Drummondville",
+    "province": "QC",
+    "lat": 45.8833,
+    "lon": -72.4833,
+    "capabilities": [
+      {"name": "MIG / MAG welding",  "category": "Welding & Joining"},
+      {"name": "spot welding",       "category": "Welding & Joining"},
+      {"name": "brazing / soldering","category": "Welding & Joining"}
+    ],
+    "certifications": ["CWB", "ISO 3834-2"]
+  }
+]

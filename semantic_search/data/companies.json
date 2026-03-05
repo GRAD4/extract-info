@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Précision Métaux Montréal",
+    "description": "High-precision CNC machining of aluminum, titanium, and stainless steel aerospace components. AS9100D and ISO 9001:2015 certified. 3-axis and 5-axis milling, turning, and grinding capabilities for critical flight hardware.",
+    "city": "Montréal",
+    "province": "QC",
+    "lat": 45.5017,
+    "lon": -73.5673,
+    "capabilities": ["CNC Machining", "5-axis milling", "turning / lathe work", "grinding"],
+    "certifications": ["AS9100D", "ISO 9001:2015"]
+  },
+  {
+    "id": 2,
+    "name": "Fabrication Laval Métal",
+    "description": "Sheet metal fabrication specialist offering laser cutting, press brake bending, and MIG welding for industrial and HVAC applications. ISO 9001 certified with fast turnaround.",
+    "city": "Laval",
+    "province": "QC",
+    "lat": 45.5881,
+    "lon": -73.6917,
+    "capabilities": ["Sheet Metal Fabrication", "laser cutting", "bending / forming", "MIG / MAG welding"],
+    "certifications": ["ISO 9001:2015"]
+  },
+  {
+    "id": 3,
+    "name": "Soudure & Assemblage Québec",
+    "description": "Certified welding services including TIG, MIG, and friction stir welding. Specializes in aluminum and stainless steel structures for the transportation and rail industries.",
+    "city": "Québec",
+    "province": "QC",
+    "lat": 46.8139,
+    "lon": -71.2082,
+    "capabilities": ["Welding & Joining", "TIG welding", "MIG / MAG welding", "friction stir welding"],
+    "certifications": ["CWB", "ISO 3834-2"]
+  },
+  {
+    "id": 4,
+    "name": "Revêtements Industriels Sherbrooke",
+    "description": "Surface treatment and finishing for aerospace and automotive parts: anodizing, hard anodizing, powder coating, electroplating, and shot blasting. Nadcap approved for chemical processing.",
+    "city": "Sherbrooke",
+    "province": "QC",
+    "lat": 45.4042,
+    "lon": -71.8929,
+    "capabilities": ["Surface Treatment", "anodizing", "powder coating", "electroplating", "shot blasting"],
+    "certifications": ["Nadcap", "AS9100D"]
+  },
+  {
+    "id": 5,
+    "name": "Impression 3D Montréal",
+    "description": "Additive manufacturing services including FDM, SLA, and direct metal laser sintering (DMLS) for rapid prototyping and low-volume production of complex geometries. Materials include aluminum, titanium, and Inconel.",
+    "city": "Montréal",
+    "province": "QC",
+    "lat": 45.5048,
+    "lon": -73.5772,
+    "capabilities": ["Additive Manufacturing", "FDM / FFF printing", "SLA / DLP printing", "metal 3D printing (DMLS)"],
+    "certifications": []
+  },
+  {
+    "id": 6,
+    "name": "Usinage CNC Longueuil",
+    "description": "Precision CNC turning and milling for the defense and medical device industries. Wire EDM capabilities for tight-tolerance tooling. ISO 13485 and ISO 9001 certified.",
+    "city": "Longueuil",
+    "province": "QC",
+    "lat": 45.5313,
+    "lon": -73.5185,
+    "capabilities": ["CNC Machining", "turning / lathe work", "3-axis milling", "EDM / wire EDM"],
+    "certifications": ["ISO 13485", "ISO 9001:2015"]
+  },
+  {
+    "id": 7,
+    "name": "Découpe Laser Ontario",
+    "description": "High-volume laser and waterjet cutting for sheet metal and non-metallic materials. Fast turnaround for automotive and consumer electronics OEMs. IATF 16949 certified.",
+    "city": "Toronto",
+    "province": "ON",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "capabilities": ["Sheet Metal Fabrication", "laser cutting", "waterjet cutting", "punching / stamping"],
+    "certifications": ["ISO 9001:2015", "IATF 16949"]
+  },
+  {
+    "id": 8,
+    "name": "Structures Soudées Drummond",
+    "description": "Heavy structural welding and assembly for construction and mining equipment. Certified welding procedures for carbon steel, alloy steel, and stainless steel. CWB and ISO 3834-2 certified.",
+    "city": "Drummondville",
+    "province": "QC",
+    "lat": 45.8833,
+    "lon": -72.4833,
+    "capabilities": ["Welding & Joining", "MIG / MAG welding", "spot welding", "brazing / soldering"],
+    "certifications": ["CWB", "ISO 3834-2"]
+  },
+  {
+    "id": 9,
+    "name": "Pièces de Précision Trois-Rivières",
+    "description": "CNC machining and sheet metal fabrication for hydraulic and pneumatic component manufacturers. Specializes in high-volume production runs with tight tolerances. ISO 9001 certified.",
+    "city": "Trois-Rivières",
+    "province": "QC",
+    "lat": 46.3432,
+    "lon": -72.5450,
+    "capabilities": ["CNC Machining", "3-axis milling", "turning / lathe work", "Sheet Metal Fabrication", "bending / forming"],
+    "certifications": ["ISO 9001:2015"]
+  },
+  {
+    "id": 10,
+    "name": "Traitement de Surface Ottawa",
+    "description": "Painting, powder coating, and electroplating services for industrial and architectural applications. Specializes in corrosion-resistant coatings for outdoor infrastructure.",
+    "city": "Ottawa",
+    "province": "ON",
+    "lat": 45.4215,
+    "lon": -75.6972,
+    "capabilities": ["Surface Treatment", "painting / coating", "powder coating", "electroplating"],
+    "certifications": ["ISO 9001:2015"]
+  }
+]

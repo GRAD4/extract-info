@@ -1,0 +1,34 @@
+ACME Aerospace Parts Inc.
+
+About Us
+ACME Aerospace Parts has been a trusted partner in precision manufacturing since 1998. Located in Saint-Laurent, Québec, we serve OEMs and Tier 1 suppliers across North America with high-quality machined components and assemblies.
+
+Our Capabilities
+
+CNC Machining
+Our machining center operates 12 five-axis CNC milling machines and 8 CNC lathes capable of handling components up to 2 meters in length. We specialize in complex geometries for structural airframe parts, engine brackets, and actuation components.
+
+- 5-axis milling: ±0.005 mm positional accuracy
+- CNC turning: diameters from 1 mm to 800 mm
+- Grinding: surface and cylindrical, Ra 0.4 μm achievable
+- EDM wire cutting for precision tooling and inserts
+
+Materials
+We routinely machine aluminum alloys (2024, 6061, 7075), titanium (Ti-6Al-4V), stainless steels (17-4PH, 316L), and Inconel 718 for demanding aerospace environments.
+
+Surface Treatment
+Our in-house finishing department provides:
+- Anodizing (Type II and Type III hard coat)
+- Chemical conversion coating (Alodine)
+- Painting and primer application to aerospace specifications
+
+Quality & Certifications
+ACME is AS9100D and ISO 9001:2015 certified. Our quality management system covers first article inspection (FAI), statistical process control (SPC), and full traceability from raw material to finished part. We are also approved for Nadcap chemical processing.
+
+We maintain a First Article Inspection (FAI) process compliant with AS9102 and provide full material certifications and CMM reports with every delivery.
+
+Contact
+ACME Aerospace Parts Inc.
+3450 Boulevard Thimens, Saint-Laurent, QC H4R 1V6
+info@acme-aerospace.example.com
++1 (514) 555-0192

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Environment
+.env
+
+# Generated index files
+data/*.idx
+data/*.pkl
+data/*.npy
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS / editors
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,37 @@
+{
+  "CNC Machining": [
+    "3-axis milling",
+    "5-axis milling",
+    "turning / lathe work",
+    "EDM / wire EDM",
+    "grinding"
+  ],
+  "Sheet Metal Fabrication": [
+    "laser cutting",
+    "waterjet cutting",
+    "bending / forming",
+    "punching / stamping",
+    "roll forming"
+  ],
+  "Welding & Joining": [
+    "MIG / MAG welding",
+    "TIG welding",
+    "spot welding",
+    "brazing / soldering",
+    "friction stir welding"
+  ],
+  "Surface Treatment": [
+    "anodizing",
+    "powder coating",
+    "electroplating",
+    "painting / coating",
+    "shot blasting"
+  ],
+  "Additive Manufacturing": [
+    "FDM / FFF printing",
+    "SLA / DLP printing",
+    "SLS / powder bed fusion",
+    "metal 3D printing (DMLS)",
+    "binder jetting"
+  ]
+}
