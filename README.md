@@ -4,7 +4,7 @@
 
 ---
 
-1. Extract Info - methodology examples
+## Extract Info - methodology examples
 
 Illustrative code examples from the **Extract Info** project, a pre-competitive research initiative carried out by [Axya](https://axya.co) and [Plumfind](https://plumfind.com), funded by the [Ministère de l'Économie, de l'Innovation et de l'Énergie du Québec (MEIE)](https://www.economie.gouv.qc.ca/) through the [Confiance IA](https://confiance.ai/) consortium, hosted by [CRIM](https://www.crim.ca/).
 
